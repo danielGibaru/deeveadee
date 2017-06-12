@@ -1,0 +1,75 @@
+#img{
+    top: 0;
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    border: white 1px solid;
+
+
+}
+#navbar{
+    top: 0;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    background-color: #70146a;;
+    color: #70146a;
+    opacity: 1;
+
+}
+li a{
+    text-decoration: none;
+    color: white;
+    opacity: 1;
+}
+
+#scale{
+    position: absolute;
+    border: white 1px solid;
+    width: 60%;
+    height: 108.8%;
+    background-color: #70146a;
+    top: 0;
+    left:-25%;
+    z-index: 1;
+    opacity: 0.7;
+    -webkit-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    transform: skew(-30deg);
+}
+
+#titre{
+    color: #fc5e21;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: 2;
+
+}
+#descri{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    color: white;
+    z-index: 2;
+    font-size: 1.3em;
+}
+
+ #liste{
+     color: #fc5e21;
+     z-index: 4;
+     position: absolute;
+     top: 110%;
+ }
+ #dvd{
+     height: 35em;
+     max-height: 35em;
+     margin: 0.25% 4%;
+     border: 1px solid #fc5e21;
+ }
+
+ #onedvd{
+     padding: 10%;
+
+ }
