@@ -15,8 +15,11 @@
                 <li role="presentation"><a href="#">LOG</a></li>
                 <li role="presentation"><a href="http://deeveadee.my/index.php/admin">Admin</a></li>
             </ul>
-            <img id="img" src="/assets/img/maxresdefault.jpg" alt="">
-            <div id='scale'></div>
+            <div id="scaleBox">
+
+                <img id="img" src="/assets/img/maxresdefault.jpg" alt="">
+                <div id='scale'></div>
+            </div>
             <h1 id="titre" style="font-family : Comfortaa">Deeveadee</h1>
             <p  id="descri" style="font-family : Comfortaa">nous sommes une entreprise mieux que videofutur <br>
                                                             qui loue pas des VHS mais des DVD mais on aime le streaming
